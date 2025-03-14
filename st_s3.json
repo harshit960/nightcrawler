@@ -1,0 +1,837 @@
+[
+    {
+        "name": "Amazon Solimo",
+        "description": "Upgrade your everyday essentials with Amazon Solimo – quality you can trust at prices you'll love! Shop now!",
+        "image_url": "/assets/amazon/amazon-solimo-categories/amazon-furnishing.webp",
+        "link": "https://amzn.to/3CVWQd9",
+        "ad": true
+    },
+    {
+        "name": "Canvaloop Fibre",
+        "description": "A sustainable fabrics manufacturer in India uses agricultural waste to create high-quality, eco-friendly fibres for fashion, apparel, and home textiles.",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 2 Crores for 4% Equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-3.webp",
+        "link": "/shark-tank-india-season/season-3/canvaloop-fibre",
+        "ad": false
+    },
+    {
+        "name": "Cool The Globe",
+        "description": "Combat climate change with Cool The Globe. Empowering & Uniting Changemakers Globally For Climate Action",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 25 Lakhs for 8% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/NaqF88YhuSY/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/cool-the-globe",
+        "ad": false
+    },
+    {
+        "name": "Lea Clothing Co",
+        "description": "Combat climate change with Cool The Globe. Empowering & Uniting Changemakers Globally For Climate Action",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 4% Equity + 2% royalty until ₹ 1.5 Crores are recouped...",
+        "image_url": "https://i.ytimg.com/vi_webp/WtFDleNcLo0/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/lea-clothing-co",
+        "ad": false
+    },
+    {
+        "name": "P-Tal",
+        "description": "Copper, Brass, and Bronze Kitchenware",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 3.2% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/R6YPqNj7nUY/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/p-tal",
+        "ad": false
+    },
+    {
+        "name": "Neon Attack",
+        "description": "Premium Quality Neon Signs",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 3% Equity + ₹ 25 Lakhs at 2% royalty until ₹ 50 Lakhs are recouped...",
+        "image_url": "https://i.ytimg.com/vi_webp/_fqD9FdY9wU/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/neon-attack",
+        "ad": false
+    },
+    {
+        "name": "First Bud Organics",
+        "description": "Organic Products, Organic Food",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 5% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/F4ps5Nnl6VE/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/first-bud-organics",
+        "ad": false
+    },
+    {
+        "name": "Allter",
+        "description": "Bamboo Diapers",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 4% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0576/5205/2013/files/MosquitoPatch_front_1.png?v=1731329175",
+        "link": "/shark-tank-india-season/season-3/allter",
+        "ad": false
+    },
+    {
+        "name": "Rocca",
+        "description": "Premium Chocolate Brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 30 Lakhs for 2.5% Equity + 30 Lakhs debt @9% for 3 years...",
+        "image_url": "https://i.ytimg.com/vi_webp/JvPV5sYlw7c/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/rocca",
+        "ad": false
+    },
+    {
+        "name": "Indigifts",
+        "description": "Gifts tech company",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 4% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/DCaAztco_iU/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/indigifts",
+        "ad": false
+    },
+    {
+        "name": "Prorata",
+        "description": "Fractional Car Ownership Platform",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 10% Equity + 50 Lakhs Debt @14% Interest...",
+        "image_url": "https://i.ytimg.com/vi_webp/ZDedOr73Qfg/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/prorata",
+        "ad": false
+    },
+    {
+        "name": "Popcorn Company",
+        "description": "Ready to Eat Popcorn",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 75 Lakhs for 15% Equity + 3% Royalty until 75 Lakhs is Recouped...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0841/4550/4532/files/Date_Night_image_1.png?v=1721665391",
+        "link": "/shark-tank-india-season/season-3/popcorn-company",
+        "ad": false
+    },
+    {
+        "name": "Farmdidi",
+        "description": "Food Business training App",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 10% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/eF6SdH-BKVQ/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/farmdidi",
+        "ad": false
+    },
+    {
+        "name": "Xmachines",
+        "description": "Robotics and AI for Agriculture",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 72 Lakhs for 4% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/IrIckgiMto4/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/xmachines",
+        "ad": false
+    },
+    {
+        "name": "Coratia Technologies",
+        "description": "Coratia Technologies Pvt. Ltd. is a trailblazing company specializing in underwater robotics. We offer comprehensive solutions in the field of Remotely Operated Vehicles (ROVs) and Autonomous Underwater Vehicles (AUVs), catering to a wide range of underwater challenges using cutting-edge technologies.",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 80 Lakhs for 1% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/5R2wsk9Y10w/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/coratia-technologies",
+        "ad": false
+    },
+    {
+        "name": "WhySoBlue",
+        "description": "A handcrafted clothing brand that's in love with pockets! We make breathable clothing for everyday living that is comfortable and accessible.",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 40 Lakhs for 3% Equity + 35 Lakhs Debt @ 10% for 3 years...",
+        "image_url": "https://i.ytimg.com/vi_webp/Ouc6sadkHFc/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/whysoblue",
+        "ad": false
+    },
+    {
+        "name": "Nemocare Raksha",
+        "description": "NeoNatel Wearable Vital Monitor. Creating innovative solutions for improving newborn and maternal care.",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 20 Lakhs for 0.67% Equity + 80 Lakhs Debt @ 10% for 2 years...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-3.webp",
+        "link": "/shark-tank-india-season/season-3/nemocare-raksha",
+        "ad": false
+    },
+    {
+        "name": "Kaabil Kids",
+        "description": "Online Chess Training Academy",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 2 5% Equity + 20 Lakhs Debt @ 12% for 2 years...",
+        "image_url": "https://i.ytimg.com/vi_webp/GBKhRWlCjZY/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/kaabil-kids",
+        "ad": false
+    },
+    {
+        "name": "SPEC OPS",
+        "description": "Tactical clothings for Military",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 40 Lakhs for 2% Equity + 40 Lakhs Debt @ 12% for 2 years...",
+        "image_url": "https://i.ytimg.com/vi_webp/HqZKlshPzlE/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/spec-ops",
+        "ad": false
+    },
+    {
+        "name": "NEMA AI",
+        "description": "AI and Neuroscience based EdTech Platform",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 40 Lakhs for 8% Equity + 40 Lakhs Debt @ 10% for 3 years...",
+        "image_url": "https://i.ytimg.com/vi_webp/xBJfXDDgvIE/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/nema-ai",
+        "ad": false
+    },
+    {
+        "name": "Katidhan",
+        "description": "Autonomous Light Deterrence System",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 75 Lakhs for 5% Equity + 75 Lakhs Debt @ 10% for 3 years...",
+        "image_url": "https://i.ytimg.com/vi_webp/bikBl4fe8sQ/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/katidhan",
+        "ad": false
+    },
+    {
+        "name": "Smotect",
+        "description": "Nicotine free tablets to quit smoking",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 5% Equity + 50 Lakhs Debt @ 15% for 3 years...",
+        "image_url": "https://i.ytimg.com/vi_webp/Cv-yJgLvCdg/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/smotect",
+        "ad": false
+    },
+    {
+        "name": "Rock Paper Rum",
+        "description": "Innovative Indian Rum Brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 20 Lakhs for 1% Equity + 30 Lakhs Debt @ 10% for 2 years...",
+        "image_url": "https://i.ytimg.com/vi_webp/MxGkoNz1Z1Y/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/rock-paper-rum",
+        "ad": false
+    },
+    {
+        "name": "iDreamCareer",
+        "description": "Career Counseling Platform",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 1% Equity + 50 Lakhs Debt @ 8% for 3 years...",
+        "image_url": "https://i.ytimg.com/vi_webp/di-gyTzqRtw/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/idreamcareer",
+        "ad": false
+    },
+    {
+        "name": "Dharaksha Ecosolution",
+        "description": "Sustainable Material Science Company",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1250 for 1% Equity + 100Hours...",
+        "image_url": "https://i.ytimg.com/vi_webp/lqwAvqweEBY/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/dharaksha-ecosolution",
+        "ad": false
+    },
+    {
+        "name": "FlexifyMe",
+        "description": "Body Pain Management Platform",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 1.32% Equity + 50 Lakhs Debt @ 10% for 2 Years...",
+        "image_url": "https://i.ytimg.com/vi_webp/DO0N2gTVFTQ/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/flexifyme",
+        "ad": false
+    },
+    {
+        "name": "A Toddler Thing",
+        "description": "Baby Clothing and Essentials",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 40 Lakhs for 2% Equity + 40 Lakhs Debt @ 3% Royalty till 40 Lakhs are Recouped...",
+        "image_url": "https://i.ytimg.com/vi_webp/LuuHnTpery8/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/a-toddler-thing",
+        "ad": false
+    },
+    {
+        "name": "Sama",
+        "description": "Online Despute Resolution",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 1.5% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/NP3EntyxsfQ/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/sama",
+        "ad": false
+    },
+    {
+        "name": "Design Template",
+        "description": "Online Design Marketplace",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 10% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/8QV8nhXJEXw/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/design-template",
+        "ad": false
+    },
+    {
+        "name": "Deeva",
+        "description": "Online Saree Platform",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 75 Lakhs for 6% Equity + 1.25 Crores debt @10% for 3years...",
+        "image_url": "https://i.ytimg.com/vi_webp/R8U39U3hF7E/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/deeva",
+        "ad": false
+    },
+    {
+        "name": "Namakwali",
+        "description": "Organic Spices",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 10 Lakhs for 5% Equity + 40 Lakhs debt @8% for 3years...",
+        "image_url": "https://i.ytimg.com/vi_webp/eGP9H2G0AnI/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/namakwali",
+        "ad": false
+    },
+    {
+        "name": "Creme Castle",
+        "description": "Customised Cakes and bakery products",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 2.5% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/7_pqmCfNIvw/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/creme-castle",
+        "ad": false
+    },
+    {
+        "name": "Littlebox",
+        "description": "Fast fashion D2C brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 75 Lakhs for 2.5% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/VydvClwO5B8/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/littlebox",
+        "ad": false
+    },
+    {
+        "name": "Nibblerzz",
+        "description": "Sugar Free Candy",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 10 Lakhs for 5% Equity + 40 Lakhs debt @10% for 2years...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0580/2898/2333/files/MaskGroup9.jpg?v=1708093929",
+        "link": "/shark-tank-india-season/season-3/nibblerzz",
+        "ad": false
+    },
+    {
+        "name": "Vobble",
+        "description": "Kids Audio Platform",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 25 Lakhs for 2% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/TdZspiUkO4A/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/vobble",
+        "ad": false
+    },
+    {
+        "name": "MEPACK",
+        "description": "Custom Gym Subscription",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 7 Lakhs for 10% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/LyRn7Ruspfk/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/mepack",
+        "ad": false
+    },
+    {
+        "name": "The Shell Hair",
+        "description": "Hair Extension Brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 30 Lakhs for 3% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/vxPhoxWl5j0/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/the-shell-hair",
+        "ad": false
+    },
+    {
+        "name": "Model Verse",
+        "description": "Advance AI based Image Model Wrapper",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 25 Lakhs for 10% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/w2GxjzPkIqY/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/model-verse",
+        "ad": false
+    },
+    {
+        "name": "FOMO",
+        "description": "Ice Tea Brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 35 Lakhs for 6% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/c86-du7sxzQ/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/fomo",
+        "ad": false
+    },
+    {
+        "name": "Kryzen Biotech",
+        "description": "Hydrophonic Farming",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 75 Lakhs for 15% Equity + 2% Royalty till 1.5 Crores is Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-kryzenbiotech.webp",
+        "link": "/shark-tank-india-season/season-3/kryzen-biotech",
+        "ad": false
+    },
+    {
+        "name": "Avataar Skincare",
+        "description": "Skincare Services",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 35 Lakhs for 0.5% Equity + 35 Lakhs Debt @14% for 3 years...",
+        "image_url": "https://i.ytimg.com/vi_webp/--nLm1nA2cY/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/avataar-skincare",
+        "ad": false
+    },
+    {
+        "name": "Cervicheck",
+        "description": "Cervical Cancer Screening Test Kits",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 75 Lakhs for 5% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/C0cAmkAPWmU/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/cervicheck",
+        "ad": false
+    },
+    {
+        "name": "Wiselife",
+        "description": "Yoga Accessories",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1.2 Crores for 4% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/9jV57c0d4WU/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/wiselife",
+        "ad": false
+    },
+    {
+        "name": "Flyrobe",
+        "description": "Fashion Rental Platform for Men and Women",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 4% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/CNKG81C_fzE/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/flyrobe",
+        "ad": false
+    },
+    {
+        "name": "Candid Men",
+        "description": "Fashion Rental Platform for Men",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 5% Equity (3% will be given back to founder if 2Cr PAT is achieved)...",
+        "image_url": "https://i.ytimg.com/vi_webp/5FN3TaRizMQ/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/candid-men",
+        "ad": false
+    },
+    {
+        "name": "Uncle Peter Pancakes",
+        "description": "Pancake focused QSR",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 2.4% Equity + 3% Royalty till 1.2 Crores is Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-season-3-unclepeterspancakes.webp",
+        "link": "/shark-tank-india-season/season-3/uncle-peter-pancakes",
+        "ad": false
+    },
+    {
+        "name": "Polish Me Pretty",
+        "description": "Nail Art Brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 25 Lakhs for 25% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-polishmepretty.webp",
+        "link": "/shark-tank-india-season/season-3/polish-me-pretty",
+        "ad": false
+    },
+    {
+        "name": "Cosmix",
+        "description": "Herbal Super Supplements",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 1% Equity + 1% Royalty till 1 Crore is Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-cosmix.webp",
+        "link": "/shark-tank-india-season/season-3/cosmix",
+        "ad": false
+    },
+    {
+        "name": "Aroleap",
+        "description": "Smart Home Gym",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 5% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0667/1692/6120/files/bicep_curl_m_40491b8e-fb5a-4dde-91a7-14df9d9e20dd.jpg?v=1737702945",
+        "link": "/shark-tank-india-season/season-3/aroleap",
+        "ad": false
+    },
+    {
+        "name": "Plus",
+        "description": "Gold and Jewellery Savings App",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 1.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-plus.webp",
+        "link": "/shark-tank-india-season/season-3/plus",
+        "ad": false
+    },
+    {
+        "name": "Tohands",
+        "description": "Smart Calculator with Legder",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 2% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-tohands.webp",
+        "link": "/shark-tank-india-season/season-3/tohands",
+        "ad": false
+    },
+    {
+        "name": "Arista Vault",
+        "description": "Smart Luggage Bags",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 20 Lakhs for 1% Equity + 25 Lakhs Debt @18% for 2 years...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-arista-vault.webp",
+        "link": "/shark-tank-india-season/season-3/arista-vault",
+        "ad": false
+    },
+    {
+        "name": "Matri",
+        "description": "Period Pain Relieving Devices",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 4% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0646/1866/0022/files/giftwarpingMatri_2024-07-09T11_54_41.589Z.png?v=1720526092",
+        "link": "/shark-tank-india-season/season-3/matri",
+        "ad": false
+    },
+    {
+        "name": "Artinci",
+        "description": "Zero Sugar Desserts",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 5% Equity + 1% Royalty till 75 Lakhs are Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-artinci.webp",
+        "link": "/shark-tank-india-season/season-3/artinci",
+        "ad": false
+    },
+    {
+        "name": "Refit",
+        "description": "Refurbished Phones brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 2 Crores for 1% Equity + 1% Royalty untill 3 Crores are recouped...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0874/4068/7387/files/Apple_iPhone_12_Black_A_a3559998-06dd-4e24-86a9-c9877a58e321.jpg?v=1736720868",
+        "link": "/shark-tank-india-season/season-3/refit",
+        "ad": false
+    },
+    {
+        "name": "D'chica",
+        "description": "Innerwears for Teenage Girls",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 80 Lakhs for 2% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-dchica.webp",
+        "link": "/shark-tank-india-season/season-3/d'chica",
+        "ad": false
+    },
+    {
+        "name": "Chefling",
+        "description": "DIY Food Products",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 40 Lakhs for 16% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-chefling.webp",
+        "link": "/shark-tank-india-season/season-3/chefling",
+        "ad": false
+    },
+    {
+        "name": "ORBO AI",
+        "description": "AI-based Beauty Advisor",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 1% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-orboai.webp",
+        "link": "/shark-tank-india-season/season-3/orbo-ai",
+        "ad": false
+    },
+    {
+        "name": "Push Sports",
+        "description": "Sports Solutions Company",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 80 Lakhs for 4% Equity + 2% Royalty till 1.6 Crores are Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-pushsports.webp",
+        "link": "/shark-tank-india-season/season-3/push-sports",
+        "ad": false
+    },
+    {
+        "name": "Toffee Coffee Roasters",
+        "description": "Coffee Brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 36 Lakhs for 2.33% Equity + 25 Lakhs debt @10% for 3years...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-toffeecoffeeroasters.webp",
+        "link": "/shark-tank-india-season/season-3/toffee-coffee-roasters",
+        "ad": false
+    },
+    {
+        "name": "Yes Madam",
+        "description": "App-based Home Salon Service",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1.5 Crores for 2% Equity + 2% Equity till 1.5 Crore is Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-yes-madam.webp",
+        "link": "/shark-tank-india-season/season-3/yes-madam",
+        "ad": false
+    },
+    {
+        "name": "HyperLab",
+        "description": "Sports Tech Brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 25 Lakhs for 1% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-hyperlab.webp",
+        "link": "/shark-tank-india-season/season-3/hyperlab",
+        "ad": false
+    },
+    {
+        "name": "VOLD",
+        "description": "Energy Drink",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 10 Lakhs for 10% Equity + 3% Royalty till 40 Lakhs are recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-vold.webp",
+        "link": "/shark-tank-india-season/season-3/vold",
+        "ad": false
+    },
+    {
+        "name": "Kibo by Trestle Labs",
+        "description": "Optical Character Recognition",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 6% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-kibo.webp",
+        "link": "/shark-tank-india-season/season-3/kibo-by-trestle-labs",
+        "ad": false
+    },
+    {
+        "name": "Without™ (by Ashaya)",
+        "description": "Without™ makes the world's first recycled sunglasses (among other things) made from packets of chips. This plastic waste (MLP) is considered impossible to recycle, but we have worked hard over the last two years and found a way. And we do this while empowering wastepickers out of poverty",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 75 Lakhs for 3% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0825/3610/4244/files/Eyeglasses2.webp?v=1741066496",
+        "link": "/shark-tank-india-season/season-3/withouttm-(by-ashaya)",
+        "ad": false
+    },
+    {
+        "name": "Nasher Miles",
+        "description": "Travel Bags",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 3 Crores for 1.5% Equity + 1% Royalty until 3 Crore is Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-nashermiles.webp",
+        "link": "/shark-tank-india-season/season-3/nasher-miles",
+        "ad": false
+    },
+    {
+        "name": "A Little Extra",
+        "description": "Hand Made Fabric Jewellery",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 7.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-alittleextra.webp",
+        "link": "/shark-tank-india-season/season-3/a-little-extra",
+        "ad": false
+    },
+    {
+        "name": "Decode Age",
+        "description": "Age Longetivity Supplements",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 2.25% Equity + 1% Royalty until 1.5 Crore is Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-decodeage.webp",
+        "link": "/shark-tank-india-season/season-3/decode-age",
+        "ad": false
+    },
+    {
+        "name": "WALK",
+        "description": "Wearable Mobility Aid",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 2.3% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-walk.webp",
+        "link": "/shark-tank-india-season/season-3/walk",
+        "ad": false
+    },
+    {
+        "name": "Daak Room",
+        "description": "Letter Writing Services",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 36 Lakhs for 6% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-daak-room.webp",
+        "link": "/shark-tank-india-season/season-3/daak-room",
+        "ad": false
+    },
+    {
+        "name": "JewelBox",
+        "description": "Lab Grown Diamond Jewellery Brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 2 Crores for 6% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-jewelbox.webp",
+        "link": "/shark-tank-india-season/season-3/jewelbox",
+        "ad": false
+    },
+    {
+        "name": "Koparo",
+        "description": "Coconut based Cleaning Products",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 70 Lakhs for 1% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-koparo.webp",
+        "link": "/shark-tank-india-season/season-3/koparo",
+        "ad": false
+    },
+    {
+        "name": "HoneyTwigs",
+        "description": "Honey Brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 75 Lakhs for 3% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-honey-twigs.webp",
+        "link": "/shark-tank-india-season/season-3/honeytwigs",
+        "ad": false
+    },
+    {
+        "name": "Eva Scalp Cooling System",
+        "description": "Post Chemo Scalp Cooling brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 30 Lakhs for 1.8% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-eva.webp",
+        "link": "/shark-tank-india-season/season-3/eva-scalp-cooling-system",
+        "ad": false
+    },
+    {
+        "name": "Gud Gum",
+        "description": "Healthy Chewing Gum brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 80 Lakhs for 10% Equity + 4% Royalty until 80Lakhs is Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-gudgum.webp",
+        "link": "/shark-tank-india-season/season-3/gud-gum",
+        "ad": false
+    },
+    {
+        "name": "Vecros",
+        "description": "Spatial AI drone",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 20 Lakhs for 1% Equity + ₹ 80 Lakhs debt @ 10% for 3 years...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-vecros.webp",
+        "link": "/shark-tank-india-season/season-3/vecros",
+        "ad": false
+    },
+    {
+        "name": "Arata",
+        "description": "Hair care brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 1.33% Equity + 0.67% Advisory Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-arata.webp",
+        "link": "/shark-tank-india-season/season-3/arata",
+        "ad": false
+    },
+    {
+        "name": "Goenchi Feni",
+        "description": "Alcohol brand",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 2 Crores for 15% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-goenchi.webp",
+        "link": "/shark-tank-india-season/season-3/goenchi-feni",
+        "ad": false
+    },
+    {
+        "name": "WYLD Card",
+        "description": "Customer as Influencer",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 75 Lakhs for 1.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-wyld.webp",
+        "link": "/shark-tank-india-season/season-3/wyld-card",
+        "ad": false
+    },
+    {
+        "name": "Tiggle",
+        "description": "Chocolate mixes",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 50 Lakhs for 20% Equity + 2% royalty until ₹ 1 Crores are recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-season-3-tiggle.webp",
+        "link": "/shark-tank-india-season/season-3/tiggle",
+        "ad": false
+    },
+    {
+        "name": "WeHear",
+        "description": "Hearing Solutions",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 2.5 Crores for 1% Equity + 1.5% Advisory Equity, Conditional Offer...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-wehear.webp",
+        "link": "/shark-tank-india-season/season-3/wehear",
+        "ad": false
+    },
+    {
+        "name": "Tramboo",
+        "description": "Kashmir willow bats",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 30 Lakhs for 4% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-tramboo.webp",
+        "link": "/shark-tank-india-season/season-3/tramboo",
+        "ad": false
+    },
+    {
+        "name": "Kalakaram",
+        "description": "DIY kits",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 6% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-kalakaram.webp",
+        "link": "/shark-tank-india-season/season-3/kalakaram",
+        "ad": false
+    },
+    {
+        "name": "AI Kavach",
+        "description": "Online security app",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 2.5% Equity + 2.5% Advisory Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/6S5u4b9f7Bk/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-3/ai-kavach",
+        "ad": false
+    },
+    {
+        "name": "Dil foods",
+        "description": "Virtual restaurant service",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 2 Crores for 2.67% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-season-3-dil-foods.webp",
+        "link": "/shark-tank-india-season/season-3/dil-foods",
+        "ad": false
+    },
+    {
+        "name": "Mintree",
+        "description": "Skin care products",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 90 Lakhs for 1.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-mintree.webp",
+        "link": "/shark-tank-india-season/season-3/mintree",
+        "ad": false
+    },
+    {
+        "name": "TURMS",
+        "description": "Intelligent Clothing",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1.2 Crores for 4% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-turms.webp",
+        "link": "/shark-tank-india-season/season-3/turms",
+        "ad": false
+    },
+    {
+        "name": "Blix",
+        "description": "Robotics toys",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 80 Lakhs for 4% Equity, Conditional Offer...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-season-3-blix.webp",
+        "link": "/shark-tank-india-season/season-3/blix",
+        "ad": false
+    },
+    {
+        "name": "Rodbez",
+        "description": "Taxi-service for Bihar",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 20 Lakhs for 5% Equity + ₹ 30 Lakhs debt @ 12% for 2 years...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-3-roadbez.webp",
+        "link": "/shark-tank-india-season/season-3/rodbez",
+        "ad": false
+    },
+    {
+        "name": "Intervue",
+        "description": "Conducts technical interviews online",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1.5 Crores for 2% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-season-3-intervue.webp",
+        "link": "/shark-tank-india-season/season-3/intervue",
+        "ad": false
+    },
+    {
+        "name": "The Cinnamon Kitchen",
+        "description": "Plant-based healthy snacks",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 60 Lakhs for 5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-season-3-the-cinnamon-kitchen.webp",
+        "link": "/shark-tank-india-season/season-3/the-cinnamon-kitchen",
+        "ad": false
+    },
+    {
+        "name": "Adil Qadri",
+        "description": "Perfumes and Attar",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 1% Equity + 1% royalty until ₹ 1 Crores are recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-season-3-adil-qadri.webp",
+        "link": "/shark-tank-india-season/season-3/adil-qadri",
+        "ad": false
+    },
+    {
+        "name": "The Honest Home",
+        "description": "Honest Eco-friendly daily use products",
+        "season": "Shark Tank INDIA Season 3",
+        "raised": "₹ 1 Crore for 3% Equity + 1% royalty until ₹ 1.5 Crores are recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-season-3-honest-home.webp",
+        "link": "/shark-tank-india-season/season-3/the-honest-home",
+        "ad": false
+    }
+]

@@ -1,0 +1,801 @@
+[
+    {
+        "name": "Urban Animal",
+        "description": "Proactively test your pup for 130+ genetic diseases with our once-in-a-lifetime Dog DNA Test. Help them lead a fulfilled life. Order now!",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "No",
+        "image_url": "/assets/shark-tank-india/companies/urban-animal.png",
+        "link": "/shark-tank-india-season/season-4/urban-animal",
+        "ad": false,
+        "email":"akash.murali@urbananimal.co.in"
+    },
+    {
+        "name": "The Bear House",
+        "description": "Looking for stylish and affordable men's clothing? Look no further than The Bear House. Shop our online collection and elevate your wardrobe today.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore For 1% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/the-bear-house.png",
+        "link": "/shark-tank-india-season/season-4/the-bear-house",
+        "ad": false,
+        "email":"harsh@thebearhouse.com"
+    },
+    {
+        "name": "FitFeast",
+        "description": "FitFeast makes tasty protein-rich snacks like Peanut Butters, Protein Chips, Protein Bars, and Protein Shakes. Lab-Tested and Trusted by FDA.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 18% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/fitfeast.png",
+        "link": "/shark-tank-india-season/season-4/fitfeast",
+        "ad": false,
+        "email":"aditya@fitfeast.in"
+    },
+    {
+        "name": "EasyRugs",
+        "description": "Our Easy Rugs are hand-washable, Sustainable, low maintenance, Non-slip. Never worry about maintenance again. Check out our beautiful Rugs on Easy Rugs. Functionality made fun | Free Shipping",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 35 Lakhs for 5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/easyrugs.png",
+        "link": "/shark-tank-india-season/season-4/easyrugs",
+        "ad": false
+    },
+    {
+        "name": "Whale Wearables",
+        "description": "Welcome to Whale Wearables, where innovation meets empowerment. We are a groundbreaking company featured on Shark Tank, dedicated to creating wearable products that prioritize women’s safety. Our mission is simple: to provide women with peace of mind and security through smart, stylish, and discreet technology",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 30 Lakhs For 3% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/whale-wearables.png",
+        "link": "/shark-tank-india-season/season-4/whale-wearables",
+        "ad": false
+    },
+    {
+        "name": "Taffykids",
+        "description": "Give your kids the gift of style and individuality, India's first dedicated fashion brand for kids. Explore our fashionable and comfortable collections for kids",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 75 Lakhs for 1.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/taffykids.png",
+        "link": "/shark-tank-india-season/season-4/taffykids",
+        "ad": false,
+        "email":["nitiparekh@thetaffy.in","pratiknagariya@thetaffy.in","animeshsrivastava@thetaffy.in","sangitarohira@thetaffy.in"]
+    },
+    {
+        "name": "Good Monk",
+        "description": "Super charge your food with India's Best Nutrition Health Supplement Mix Powder & Drinks. Improves Gut Health, Immunity, Bone Health, & Mental Function",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 1% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/good-monk.png",
+        "link": "/shark-tank-india-season/season-4/good-monk",
+        "ad": false,
+        "email":"sahiba@superfoodsvalley.com"
+    },
+    {
+        "name": "Fitelo",
+        "description": "Powerful weight-loss programs designed by experts who have been there, done that. Make weight loss fun, permanent & natural with Fitelo. Achieve long-term wellness through holistic nutrition – Now As Seen On Shark Tank!",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1.5 Crores For 1% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/fitelo.png",
+        "link": "/shark-tank-india-season/season-4/fitelo",
+        "ad": false,
+        "email":"shubham.kaushal@fitelo.co"
+    },
+    {
+        "name": "Tribalveda",
+        "description": "Discover Tribalveda's premium jamun products, ethically sourced by tribal women. From frozen fruits, jamun jam, jamun strips, jamun shots, jamun cubes to wellness teas, our preservative-free products empower India's tribal communities. Trusted by 50k+ customers",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 2.8% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/tribalveda.png",
+        "link": "/shark-tank-india-season/season-4/tribalveda",
+        "ad": false
+    },
+    
+    {
+        "name": "Ivory Natural",
+        "description": "Experience the epitome of natural beauty with Ivory's exquisite skincare and haircare line. Our products harness the power of nature to reveal your innate beauty. Our Ayurvedic products include a wide range of organic facial care, body care, hair care and beauty products",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 5% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0673/2005/3999/files/GREYBEARDSERUM_GREYBAERDWASHMAINIMAGES-min.jpg?v=1730990231",
+        "link": "/shark-tank-india-season/season-4/ivory-natural",
+        "ad": false
+    },
+    {
+        "name": "Beautywise",
+        "description": "Buy BEAUTYWISE Health & Well-being online at best prices frombeautywise.in. Shop for 100% genuine BEAUTYWISE Health & Well-being with ✓ Free Shipping ✓ COD options available ✓ Prices start from ₹ 1499",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 3 Crores for 6% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/beautywise.png",
+        "link": "/shark-tank-india-season/season-4/beautywise",
+        "ad": false
+    },
+    {
+        "name": "Moms Home",
+        "description": "Sustainable Baby Essentials : Made by the finest of organic cotton & Bamboo. GOTS certified to meet the highest global standard . We give parents a break by delivering our premium products at surprisingly affordable prices. Wide range of Muslin Essentials, Infant clothing, Shower Gifts, Hospital Bag & Nappy Essentials",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 75 Lakhs For 2% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/moms-home.png",
+        "link": "/shark-tank-india-season/season-4/moms-home",
+        "ad": false
+    },
+    {
+        "name": "F2DF - Kisaan Ki Online Dukaan",
+        "description": "F2DF.COM empowers farmers by reducing costs, increasing output value, and unlocking new revenue streams. Uniting over a lakh farmers, we leverage collective strength for better deals in bulk selling & exports, driving a new era in Indian agriculture",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 2% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/f2df-kisaan-ki-online-dukaan.png",
+        "link": "/shark-tank-india-season/season-4/f2df-kisaan-ki-online-dukaan",
+        "ad": false
+    },
+    {
+        "name": "Trajectory",
+        "description": "Relax in style with Trajectory’s car seat pillow, back rest, and lumbar support pillow. Perfect support and comfort for every trip, only with Trajectory",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 3% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0602/8961/3926/files/Headrset_Backrest.._1.jpg?v=1733925846",
+        "link": "/shark-tank-india-season/season-4/trajectory",
+        "ad": false
+    },
+    {
+        "name": "CoGrad",
+        "description": "Engage, Enhance, Empower. Building Next-generation affordable schools for Bharat. At Cograd Schools, we provide a holistic educational experience by integrating modern technology and traditional teaching methods. Our programs focus on critical thinking, creativity, and collaboration to prepare students for the future.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs For 6% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/cograd.png",
+        "link": "/shark-tank-india-season/season-4/cograd",
+        "ad": false
+    },
+    {
+        "name": "Earthful",
+        "description": "Earthful provides 100% Plant-based nutrition supplements, with unique formulations available in India for the very first time, where vitamins and minerals are sourced solely from Plants",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 75 Lakhs For 2.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/earthful.png",
+        "link": "/shark-tank-india-season/season-4/earthful",
+        "ad": false
+    },
+    {
+        "name": "Eat Better Co",
+        "description": "Shop delicious, healthy snacks and feel good about what you eat. Millet Namkeen - Roasted Not Fried, No Palm Oil, Dry-Fruit Laddoos - No Added Sugar Nut Mixes, Seed Mixes & more Building India's most loved family snacking brand. Shipping PAN India. Available on Swiggy Instamart, Blinkit, Zepto & Amazon.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 0.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/eat-better-co.png",
+        "link": "/shark-tank-india-season/season-4/eat-better-co",
+        "ad": false
+    },
+    {
+        "name": "Medial",
+        "description": "Stay updated with the latest Indian startup ecosystem news, including funding updates, layoffs, product launches, and industry developments on Medial",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs For 2.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/medial.png",
+        "link": "/shark-tank-india-season/season-4/medial",
+        "ad": false
+    },
+    {
+        "name": "Dorabi and Aamili",
+        "description": "First Men's Make-Up Products Award Winning Brand",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 4% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/dorabi-and-aamili.png",
+        "link": "/shark-tank-india-season/season-4/dorabi-and-aamili",
+        "ad": false
+    },
+    {
+        "name": "Zebralearn",
+        "description": "Discover best books publisher in India specializing in non-fiction books. ZebraLearn offers cutting-edge design & technology insights, simplifying complex topics.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 1.6% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/zebralearn.png",
+        "link": "/shark-tank-india-season/season-4/zebralearn",
+        "ad": false
+    },
+    {
+        "name": "Solnce",
+        "description": "Making solar accessible & affordable with our Solnce app – India's first one-stop solar App! Our mission is to simplify the adoption of solar energy, focusing on consumer awareness, affordability, and accessibility with our Solnce app.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 2.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/solnce.png",
+        "link": "/shark-tank-india-season/season-4/solnce",
+        "ad": false
+    },
+    {
+        "name": "Nidhi's Grandmaa Secret",
+        "description": "Natural Hair Oil made with Nidhi's Grandmother Secret Recipe. Proven to control Hair Fall in just 8 weeks. Hair Oil for hair growth helps get thick and long hair for people with alopecia, post partum hair fall and dandruff. 100% Ayurvedic 13 Herbs Hair Oil, Amla Reetha Shikakai Shampoo & Rosemary Water Ark.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 70 Lakhs For 5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/nidhi's-grandmaa-secret.png",
+        "link": "/shark-tank-india-season/season-4/nidhi's-grandmaa-secret",
+        "ad": false
+    },
+    {
+        "name": "Palmonas",
+        "description": "Shop for demifine jewellery pieces for your everyday use from PALMONAS. Bracelets, necklaces, rings, earrings, mangalsutras and much more. waterproof, tarnishproof and hypoallergenic jewellery. Affordable luxury jewellery for everyday. Shop for alternative to real gold jewellery at PALMONAS",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1.26 Crores for 1% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/palmonas.png",
+        "link": "/shark-tank-india-season/season-4/palmonas",
+        "ad": false
+    },
+    {
+        "name": "Madmix",
+        "description": "Built by a team of passionate foodies, we, at Madmix believe that khaana hona chahiye ek tasty safar and not a snooze-fest on a cracker! Our healthy, baked munchies promise a flavor party in your mouth, while helping you champion a healthier lifestyle, because you shouldn’t have to choose one over the other!",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/madmix.png",
+        "link": "/shark-tank-india-season/season-4/madmix",
+        "ad": false
+    },
+    {
+        "name": "HireForCare",
+        "description": "Parents of children with special needs often face challenges in finding trained caregivers and accessing essential therapies ecosystem. They also struggle with financial strain, emotional stress & balancing caregiving. HireForCare provide an ecosystem for raising your special child, offering tailored support.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 36 Lakhs for 5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/hireforcare.png",
+        "link": "/shark-tank-india-season/season-4/hireforcare",
+        "ad": false
+    },
+    {
+        "name": "Moderate",
+        "description": "Moderate is the Best pre meal supplement to block or reduce carbohydrates, calories, glucose, sugar and insulin spikes by up to 40% after meals.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/moderate.png",
+        "link": "/shark-tank-india-season/season-4/moderate",
+        "ad": false
+    },
+    {
+        "name": "HealthFab",
+        "description": "Buy Period panties and period pain relief cream online in India. Explore our range of comfortable Period products. Shop for the best menstrual underwear",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 2 Crores for 7% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-healthfab.webp",
+        "link": "/shark-tank-india-season/season-4/healthfab",
+        "ad": false
+    },
+    {
+        "name": "Sudathi",
+        "description": "Sudathi is a clothing brand that offers the best and latest fashion accessible to all offering outstanding service at affordable prices.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 4% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0818/7107/7663/files/4058S661_1.jpg?v=1739882706",
+        "link": "/shark-tank-india-season/season-4/sudathi",
+        "ad": false
+    },
+    {
+        "name": "NearBook",
+        "description": "NearBook is a used books selling app that connects book lovers across the world. Whether you want to sell your old books or buy new ones, NearBook is the place for you. You can browse through thousands of books in different genres, languages and formats, and find the ones that suit your taste and budget.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 40 Lakhs for 20% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-nearbook.webp",
+        "link": "/shark-tank-india-season/season-4/nearbook",
+        "ad": false
+    },
+    {
+        "name": "Vibrasense",
+        "description": "Ayati Devices is a healthcare start-up that was incorporated on 9th February 2019. With a strong focus on neuropathy and foot complications caused by diabetes, our aim is to innovate an bring actionable and impactful products to the society. We have been awarded BIRAC BIG Grant by Government of India and are currently incubated at SINE, IIT Bombay.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 4.76% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-vibrasense.webp",
+        "link": "/shark-tank-india-season/season-4/vibrasense",
+        "ad": false
+    },
+    {
+        "name": "Better Nutrition",
+        "description": "Our flour is enriched with Iron, Zinc & Protein. Iron is important for maintaining healthy red blood cells and preventing Anemia.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 60 Lakhs for 1% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0713/7525/7828/files/betternutrition_daliyaatta1kg_Producttiles-07_37476a9e-bdec-490b-9597-46bb7a06f579.webp?v=1738831345",
+        "link": "/shark-tank-india-season/season-4/better-nutrition",
+        "ad": false
+    },
+    {
+        "name": "Chokhat",
+        "description": "'Chokhat' is a doorway to happiness and love. It resembles the feeling of belongingness and comfort. Most of our products are handcrafted, designed with in-depth precision and accuracy. When we think of Designer Products, we usually consider them to be expensive and exceeding the budget.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 30 Lakhs for 10% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0269/6511/4941/files/PashuGiftBox2.jpg?v=1720527633",
+        "link": "/shark-tank-india-season/season-4/chokhat",
+        "ad": false
+    },
+    {
+        "name": "Offmint",
+        "description": "Welcome to Offmint, where style is a personal statement and originality meets fashion. At Offmint, we think of clothes as a medium for self-expression. Offmint is at the forefront of a fashion revolution where clothing transcends mere attire and becomes a powerful form of self-expression.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 10 Lakhs for 4% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0601/7574/5117/files/DSC_0594_48c94611-ef77-47f0-905d-5b4ae221b6f4.jpg?v=1731403736",
+        "link": "/shark-tank-india-season/season-4/offmint",
+        "ad": false
+    },
+    {
+        "name": "Paleoo Bakes",
+        "description": "Baked with Love, rooted in Nutrition. Paleoo Bakes was founded in 2019 during COVID-19 as an attempt for people to eat clean and healthily without compromising the taste. It was started by a mother-daughter duo from their home kitchen and now has turned into a full-fledged cloud kitchen with a huge team.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 9% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0874/7122/7195/files/FM5.jpg?v=1728469219",
+        "link": "/shark-tank-india-season/season-4/paleoo-bakes",
+        "ad": false
+    },
+    {
+        "name": "Eriweave",
+        "description": "Eri Weave is dedicated to sustainable livelihood in the community by crafting organic dyed erisilk yarn and handwoven fabric utilising locally sourced eri silk cocoon. A perfect blend of tradition, sustainability, and style; We offer you all natural & authentic Eri silk products hand-woven by the women of Meghalaya.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 20 Lakhs for 12% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-eriweave.webp",
+        "link": "/shark-tank-india-season/season-4/eriweave",
+        "ad": false
+    },
+    {
+        "name": "Gaon Restaurant",
+        "description": "GAON takes pride in offering freshly prepared, authentic dishes inspired by the heartlands of India. Known for its genuine and rustic charm, GAON elevates the dining experience with signature Bihari and Rajasthani dishes like Champaran Handi Meat and Litti Chokha, ideal for those who appreciate traditional Indian cuisine with a modern twist.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 80 Lakhs for 8% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-gaonrestaurant.webp",
+        "link": "/shark-tank-india-season/season-4/gaon-restaurant",
+        "ad": false
+    },
+    {
+        "name": "FundooLabs",
+        "description": "Discover FundooLabs, India's leading brand for creative DIY scientific and sensory toys. Explore a wide range of DIY scientific, fun and sensory Toys designed to spark curiosity and enhance learning for kids of all ages.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 66 Lakhs for 7% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0649/0131/6701/files/KawaiiFD.jpg?v=1738992766",
+        "link": "/shark-tank-india-season/season-4/fundoolabs",
+        "ad": false
+    },
+    {
+        "name": "Bambinos.live",
+        "description": "Join bambinos.live - India's biggest platform to learn English and math for kids aged between 4-12 years",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 1.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-bambinos-live.webp",
+        "link": "/shark-tank-india-season/season-4/bambinos.live",
+        "ad": false
+    },
+    {
+        "name": "Joyspoon",
+        "description": "Joyspoon offers premium mukhwas and mouth fresheners. Explore our unique flavoured mukhwas collection in bottles and boxes. Buy online and taste the difference.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 40 Lakhs for 2% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0564/4881/1085/files/1000000104-01_1.jpg?v=1733979765",
+        "link": "/shark-tank-india-season/season-4/joyspoon",
+        "ad": false
+    },
+    {
+        "name": "Repeat Gud",
+        "description": "At Repeat Gud, we're all about reconsidering the way people think about packaged foods. We noticed that Food could be both delicious and nutritious. Repeat Gud bring you sauces that are not just mouth-watering but also packed with health benefits and without any preservatives or sugar, and most importantly, approved by moms and loved by kids.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 10% Equity. Condition: If atleast ₹ 7 Lakhs monthly revenue run rate is achieved by March 25, Anupam will invest an additional ₹ 50 Lakhs for 5%-10% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0548/7745/4447/files/01_b40d9c2e-c78b-4088-88b4-0ff2349f1c50.jpg?v=1738912746",
+        "link": "/shark-tank-india-season/season-4/repeat-gud",
+        "ad": false
+    },
+    {
+        "name": "Boba Bhai",
+        "description": "Boba Bhai - India's Premier Bubble Tea Brand. Boba Bhai is a pioneering bubble tea brand that has captured the hearts of tea enthusiasts across India. With a commitment to quality, innovation, and flavor, we offer a unique and exciting bubble tea experience that is unmatched in the market.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 90 Lakhs for 1% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-bobabhai.webp",
+        "link": "/shark-tank-india-season/season-4/boba-bhai",
+        "ad": false
+    },
+    {
+        "name": "BurgerBae",
+        "description": "BurgerBae is a sustainable streetwear clothing brand. Our vision is to diminish the line between high end fashion and streetwear to create a more unified clothing line!",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 2 Crores for 20% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0533/9578/3843/files/PRAISETHEDRIPBACK.jpg?v=1738853038",
+        "link": "/shark-tank-india-season/season-4/burgerbae",
+        "ad": false
+    },
+    {
+        "name": "Ugees",
+        "description": "Ugees makes underwear washing simple and easy! A plant-based formula, free from chemicals like Sulphate, Phthalate, Paraben, artificial colors. It has IFRA-certified, mild allergen-free fragrance.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 4% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0678/7612/6996/files/5_64686d15-3ebe-486a-b2be-ac6462ecf669.png?v=1738765348",
+        "link": "/shark-tank-india-season/season-4/ugees",
+        "ad": false
+    },
+    {
+        "name": "WANDERLOOMS",
+        "description": "Wanderlooms is for all the thrill-lovers & travel- enthusiasts seeking for travel infused wardrobe. We are an one- stop- shop for a wide range of travel inspirited merchandise dedicated to all the urban travelers & wanderers of the world.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 75 Lakhs for 4% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0269/2150/0732/files/BikerBondingCrackerBoxCombo.jpg?v=1734370028",
+        "link": "/shark-tank-india-season/season-4/wanderlooms",
+        "ad": false
+    },
+    {
+        "name": "Clapstore Toys",
+        "description": "In a world where screens have taken over playtime, Clapstore Toys was created to bring back what truly matters—hands-on learning, curiosity, and real play. Determined to solve this, they launched Clapstore Toys with a clear mission: More play, less screen.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 10% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0638/5555/8824/files/Toggle.png?v=1738351276",
+        "link": "/shark-tank-india-season/season-4/clapstore-toys",
+        "ad": false
+    },
+    {
+        "name": "Raheja Solar",
+        "description": "Raheja Solar Food Processing Pvt. Ltd. (RSFP), empower farmers with solar food processing solutions, enabling them to preserve surplus produce and create value. By fostering responsible food processing ecosystems, we aim to minimize post-harvest food loss, reduce environmental impact, and support farmers in building sustainable financial futures.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1.25 Crore for 3.13% Equity + 1.88% Advidory Equity to Kunal Bahl and ₹ 50 Lakhs for 1.25% Equity + 0.75% Advisory Equity to Vineeta Singh and Peyush Bansal...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-raheja-solar-food-processing-pvt-ltd-rsfp.webp",
+        "link": "/shark-tank-india-season/season-4/raheja-solar",
+        "ad": false
+    },
+    {
+        "name": "Ruby's Organics",
+        "description": "Switch to Natural and Clean Makeup with Ruby's Organics, India's First Organic Makeup brand. Made with innovative plant-based formulas, our products are high performing, super-nourishing and good for your skin.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 8% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0590/1303/8252/files/KOHL_e3899e25-c83c-4e3d-98ed-95b08aafc366.jpg?v=1737691928",
+        "link": "/shark-tank-india-season/season-4/ruby's-organics",
+        "ad": false
+    },
+    {
+        "name": "str8bat",
+        "description": "The str8bat cricket bat sensor is a lightweight, pocket-sized motion sensor that gives you instant, visual and actionable insights into your batting.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1.5 Crore for 3.5% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0729/4242/0270/files/st8-1-1.webp?v=1738102315",
+        "link": "/shark-tank-india-season/season-4/str8bat",
+        "ad": false
+    },
+    {
+        "name": "WomanLikeU",
+        "description": "Buy Swimwear for Women Online. Dresses, co-ords, swimwear- One stop shop for all vacation wear needs!!",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 3% Equity + 2% Royalty Until ₹ 1 Crore is Recouped...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0045/8850/3128/products/blue-jumpsuit-with-cutouts-933708.jpg?v=1706525396",
+        "link": "/shark-tank-india-season/season-4/womanlikeu",
+        "ad": false
+    },
+    {
+        "name": "House of EM5",
+        "description": "House of Em5 is the best perfume brand in India that you can trust for pocket perfumes & fragrances for men & women. Buy online long-lasting luxury body perfumes & gift sets available for sale.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 10% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0175/6875/9862/files/1_7e539bac-514d-46eb-939b-2aa7458e605e.jpg?v=1737009635",
+        "link": "/shark-tank-india-season/season-4/house-of-em5",
+        "ad": false
+    },
+    {
+        "name": "Woolah Tea",
+        "description": "Woolah Tea, As seen on Shark Tank is the World’s First Bagless Tea Dip, offering you plastic-free tea experience without the fear of microplastics released by a teabag.. We offer Best Organic Green Tea Online In India. Whole leaf teas with better health benefits.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 2.5% Equity + 2.5% Advidory Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0562/3706/4265/files/celebration.jpg?v=1738156585",
+        "link": "/shark-tank-india-season/season-4/woolah-tea",
+        "ad": false
+    },
+    {
+        "name": "Sonic Lamb",
+        "description": "Sonic Lamb’s patented Impulse Drivers delivers subwoofer experience to FEEEEEL music for complete sound experience. Tuned in Denmark - Made in India. As seen on Shark Tank.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 1% Equity + 1% Advisory Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0769/3493/8929/files/sonic-lamb-over-ear-headhpones-black-front-view.png?v=1698221486",
+        "link": "/shark-tank-india-season/season-4/sonic-lamb",
+        "ad": false
+    },
+    {
+        "name": "Yaan Man",
+        "description": "At Yaan Man, we believe masculinity and makeup go hand in hand- because confidence is about owning your look. Indian men have always embraced grooming, and today, makeup is just another tool for self-care, not a taboo. From covering blemishes to evening out skin tone, our products are designed to be simple, effective, and effortless- helping men show up as their best selves, every day.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crores for 20% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0591/8041/7205/files/JS_06500_ecff9b31-20c5-4b68-a377-9576e54987fe.jpg?v=1730460342",
+        "link": "/shark-tank-india-season/season-4/yaan-man",
+        "ad": false
+    },
+    {
+        "name": "Gabru Di Chaap",
+        "description": "India's first premium Chaap brand",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1.4 Crores for 6% Equity + 1% Royalty until ₹ 1.4 Crores is Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-gabru-di-chaap.webp",
+        "link": "/shark-tank-india-season/season-4/gabru-di-chaap",
+        "ad": false
+    },
+    {
+        "name": "MetaShot Smart Bat",
+        "description": "Play Your Favourite Sport at Home. MetaShot mission is to bring the joy of physical sports to every living room. We believe in the transformative power of Metaphysical games and aim to break down barriers, allowing individuals to experience the thrill and excitement of sports from the comfort of their homes.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1.6 Crores for 5% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0610/6490/4794/files/ACCGTVHGTKF7JWQE_0.jpg?v=1722404532",
+        "link": "/shark-tank-india-season/season-4/metashot-smart-bat",
+        "ad": false
+    },
+    {
+        "name": "The Naturik Co.",
+        "description": "Start your day right with tasty, clean label, high protein breakfast options. Low calorie popular Indian meals, with goodness of Ayurveda, making weight loss fun. Now enjoy Protein Rich Tasty breakfast, without the calorie overload. 100% natural, preservative free and trusted by 1000+ dieticians and nutritionists.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 4 Crores for 22.22 Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0741/0611/0253/files/71_wReEaWiL._SX679.jpg?v=1736168166",
+        "link": "/shark-tank-india-season/season-4/the-naturik-co.",
+        "ad": false
+    },
+    {
+        "name": "Goodland Pickleball",
+        "description": "Experience the excitement of pickleball with Goodland. Discover our state-of-the-art courts, premium paddles, and convenient online booking. Join the community at Goodland and elevate your game with pro level courts and facilities.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 80 Lakhs for 6% Equity + 0.5% Royalty Until ₹ 80 Lakhs is Recouped. Conditional Offer - Hemant must spend 6 months annually in India and the club must be constructed within the next 2 months....",
+        "image_url": "https://cdn.shopify.com/s/files/1/0801/8968/6040/files/55.jpg?v=1722925066",
+        "link": "/shark-tank-india-season/season-4/goodland-pickleball",
+        "ad": false
+    },
+    {
+        "name": "RBD Machine Tools",
+        "description": "RBD Machine Tools - Manufacture and supplier of agriculture machinary & equipments. Buy agriculture tools online at lowest prices.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 1% Equity + ₹ 50 Lakhs Debt for 9% Interest for 5 years...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-rbdmachine.webp",
+        "link": "/shark-tank-india-season/season-4/rbd-machine-tools",
+        "ad": false
+    },
+    {
+        "name": "Aseem Shakti",
+        "description": "Buy the Latest Collection of Ready to Wear Pocket Saree and Earrings at Aseem Shakti. Find the Unique Ready to Wear Saree and Stylish Earrings to Enhance Your Style and Embrace the Rich Traditions of India.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 10% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0745/3566/5940/files/WhatsAppImage2024-09-23at3.30.53PM.jpg?v=1727527807",
+        "link": "/shark-tank-india-season/season-4/aseem-shakti",
+        "ad": false
+    },
+    {
+        "name": "Ashva Wear Tech",
+        "description": "Envisioning a new world where best of the best musculoskeletal healthcare is decentralized and democratized to all. Discover India's first - FitKnees Fitmust.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 4% Equity. Conditional Offer - Subject to verification that the solution are the most affordable globally....",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-ashvaweartech_converted.webp",
+        "link": "/shark-tank-india-season/season-4/ashva-wear-tech",
+        "ad": false
+    },
+    {
+        "name": "Tikitoro",
+        "description": "Presenting hair and skin products specially formulated for kids and teens. All our skin and hair care products for teens and kids are safe for regular usage.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 25 Lakhs for 1% Equity + 0.5% Royalty until ₹ 25 Lakhs is recouped. Conditional Offer - To achieve ₹ 17 Crores sales in FY 24 - 25 and royalty will start once the company becomes profitable....",
+        "image_url": "https://cdn.shopify.com/s/files/1/0583/2618/8192/files/Waterbottle_06f06518-61b0-4afb-a34d-5b27ad220759.jpg?v=1735805658",
+        "link": "/shark-tank-india-season/season-4/tikitoro",
+        "ad": false
+    },
+    {
+        "name": "Patch up",
+        "description": "Did you know that we can absorb vitamins through our skin? Transdermal (via skin) delivery is considered one of the cleanest methods of delivering supplements as not a single additive is needed (no sugar, colour or, flavour). Patch up have just one ingredient - the vitamins that you need!",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 2.27% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0655/8662/6757/files/mixup.jpg?v=1715528122",
+        "link": "/shark-tank-india-season/season-4/patch-up",
+        "ad": false
+    },
+    {
+        "name": "Rosha India",
+        "description": "Illuminate your living space with our exquisite collection of wireless table lamps, designed to blend seamlessly with your decor and lifestyle.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 60 Lakhs for 4% Equity + 1.5% Royalty unitl ₹ 90 Lakhs is recouped...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0625/7649/2759/files/DSC00140-Edit.jpg?v=1737391653",
+        "link": "/shark-tank-india-season/season-4/rosha-india",
+        "ad": false
+    },
+    {
+        "name": "Aignosis",
+        "description": "AI.gnosis is here to offer AI-powered tools that help you understand your child’s unique way of experiencing the world. This will help you identify the signs of autism and other neurodevelopmental concerns from the comfort of your own home, giving you insights when they matter most. Keeping your family’s needs in mind, we have created a tool that ensures accuracy and reliability without being invasive.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 8% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-aignosis.webp",
+        "link": "/shark-tank-india-season/season-4/aignosis",
+        "ad": false
+    },
+    {
+        "name": "The Future Animation",
+        "description": "The Future Animations is the only studio in the world to provide Pixar Quality / 2d / 3d animations at an affordable rate with UNLIMITED revisions without any additional cost unless you are 100% satisfied with the work.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 10% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-thefutureanimations.webp",
+        "link": "/shark-tank-india-season/season-4/the-future-animation",
+        "ad": false
+    },
+    {
+        "name": "7 Ring",
+        "description": "7 Ring is India’s first open-loop contactless payment wearable ring, certified by RuPay. 7 Ring is the fastest, easiest and safest way to pay offline.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 75 Lakhs for 1.5% Equity + 1.5% Advisory Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-seven-ring.webp",
+        "link": "/shark-tank-india-season/season-4/7-ring",
+        "ad": false
+    },
+    {
+        "name": "Fupro",
+        "description": "Indian Manufacturer of High-Tech prosthetic products.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 60 Lakhs for 4% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-fupro.webp",
+        "link": "/shark-tank-india-season/season-4/fupro",
+        "ad": false
+    },
+    {
+        "name": "SNEAKINN",
+        "description": "Love your sneakers? Let Sneakinn pamper them with our premium sneaker care and sneaker cleaning services. Your kicks will thank you later! #sneakercare",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 90 Lakhs for 6.5% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0759/0032/2077/files/SUEDE_3.jpg",
+        "link": "/shark-tank-india-season/season-4/sneakinn",
+        "ad": false
+    },
+    {
+        "name": "Savani Heritage Conservation",
+        "description": "Savani Heritage Conservation have been ‘Recreating History’ to bring alive the lost Grandeur of these heritage sites. We have extensively researched to bring traditional and conventional techniques into modern environment friendly approaches.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 0.8% Equity + ₹ 2 Crores debt at 10% Interest for 3 years....",
+        "image_url": "https://savaniheritage.com/uploads/team/30-05.jpg",
+        "link": "/shark-tank-india-season/season-4/savani-heritage-conservation",
+        "ad": false
+    },
+    {
+        "name": "Shyle",
+        "description": "Discover Shyle Silver Jewellery's stunning collection of handcrafted silver jewellery from Jaipur. Celebrate tradition with modern designs. Shop earrings, rings, necklaces, and more—delivering timeless beauty worldwide.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 70 Lakhs for 1.5% Equity + 0.5% Royalty until ₹ 70 Lakhs is Recouped...",
+        "image_url": "https://www.shyle.in/cdn/shop/files/shyle_logo.png_1.webp",
+        "link": "/shark-tank-india-season/season-4/shyle",
+        "ad": false
+    },
+    {
+        "name": "Jarsh",
+        "description": "Smart Safety Wearables. Jarsh Safety revolutionizes workplace protection with innovative, technology-driven solutions that prioritize safety, reliability, and efficiency.  Our mission is to enhance workplace safety and protect individuals by fostering a culture of progress and trust.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 1.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-jarshsafety.webp",
+        "link": "/shark-tank-india-season/season-4/jarsh",
+        "ad": false
+    },
+    {
+        "name": "Aquapeya",
+        "description": "A Leading Beverages Company Dedicated To Manufacturing And Delivering High-Quality Beverages To Customers. Company Is Committed To Providing Refreshing And Delicious Options, Including Mineral Water, Fruit Juices, Carbonated Soft Drinks, And Energy Drinks.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 70 Lakhs for 3% Equity + 1% Royalty until ₹ 70 Lakhs is Recouped...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-aquapeya.webp",
+        "link": "/shark-tank-india-season/season-4/aquapeya",
+        "ad": false
+    },
+    {
+        "name": "Project Clay",
+        "description": "Mentorship that transforms you. Traditional college counselling is out of touch and expensive.Learning new skills is hard. We pair you with an elder sibling who will guide you through it.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 15 Lakhs for 10% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-projectclay.webp",
+        "link": "/shark-tank-india-season/season-4/project-clay",
+        "ad": false
+    },
+    {
+        "name": "Nurturing Green",
+        "description": "Nurturing Green is an online plant nursery offering premium quality plants online in India. We offer plants for Home Decor, Office desk plants, and Gifting plants.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 1.25% Equity + 50 Lakhs Debt at 10% interest for 3 years...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0482/2568/1571/files/1_ca7dd96d-5bba-4989-b614-d5ea432aad34.jpg?v=1737032048",
+        "link": "/shark-tank-india-season/season-4/nurturing-green",
+        "ad": false
+    },
+    {
+        "name": "Mudgar Club",
+        "description": "Explore Mudgar Club for Traditional Indian fitness equipment like Mudgar & Gada. Perfect for strength training and fitness lovers. Quality guaranteed! Shop Now!",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 12.5% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0852/4097/1563/files/1_2140565e-3e3a-4779-a20f-1a57f0de235c.webp?v=1736796402",
+        "link": "/shark-tank-india-season/season-4/mudgar-club",
+        "ad": false
+    },
+    {
+        "name": "Speed Kitchen",
+        "description": "Kitchen on the go! A one stop solution to all your cloud kitchen needs! Right from finding the ideal location with a commercial kitchen fit for your culinary operations to building your F&B brand from the ground up.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 2 Crores for 6% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-speed-kitchen.webp",
+        "link": "/shark-tank-india-season/season-4/speed-kitchen",
+        "ad": false
+    },
+    {
+        "name": "Neosapien",
+        "description": "Your Best Brainstorming Partner. Get instant personalised answers, and use Neo 1 AI assistant to clarify, brainstorm, and explore ideas from your conversations.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 80 Lakhs for 4% equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-neosapien.webp",
+        "link": "/shark-tank-india-season/season-4/neosapien",
+        "ad": false
+    },
+    {
+        "name": "Tripole Gears",
+        "description": "Ergonomical Rucksacks available in 65-95 Litre capacity. Multi-utility durable rucksacks with attached rain cover and detachable day packs | COD Available | Free Shipping",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 75 Lakhs for 1.15% + 25 Lakhs Debt at 9% for 5 years...",
+        "image_url": "https://cdn.shopify.com/s/files/1/2360/9367/files/EOSR5839_50.jpg?v=1735646054",
+        "link": "/shark-tank-india-season/season-4/tripole-gears",
+        "ad": false
+    },
+    {
+        "name": "KIWI Kisan Window",
+        "description": "Healthy Unique Flavors of India. Discover KIWI Kisan Window, your go-to organic grocery store offering the best of India's regional delights delivered pan-India",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 2.5 Crores for 10% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0774/8612/9427/files/9.jpg?v=1736495467",
+        "link": "/shark-tank-india-season/season-4/kiwi-kisan-window",
+        "ad": false
+    },
+    {
+        "name": "InnerGize",
+        "description": "India's First Mental Health Wearable. Rest, Recover & Relax in just 10 minutes!",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 4.2% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0576/2167/6166/files/35-min_11zon_ca0fd3fa-f531-4740-bb20-61dc04428172.webp?v=1736503870",
+        "link": "/shark-tank-india-season/season-4/innergize",
+        "ad": false
+    },
+    {
+        "name": "airth",
+        "description": "Make the air from your AC cool and pure. Our air purifier for ac unit filters all bacteria and pollutants. Easy to install air filter for home AC units.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 3.7% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0572/2603/5281/files/Eliminate_24.webp?v=1736428537",
+        "link": "/shark-tank-india-season/season-4/airth",
+        "ad": false
+    },
+    {
+        "name": "gudworld",
+        "description": "Buy jaggery powder and cubes online at GudWorld. Explore our range of plain jaggery, cubes, powder, flavoured jaggery and combos.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 50 Lakhs for 5% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0601/8354/3963/files/7_combo_mockup_copy.png?v=1736444469",
+        "link": "/shark-tank-india-season/season-4/gudworld",
+        "ad": false
+    },
+    {
+        "name": "NOOE",
+        "description": "NOOE offers stylish home office accessories, including wooden desk accessories. Shop now for high-quality mouse rugs, mobile stands, and more.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 5 Crores for 51% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0563/5401/3253/files/1-ref-black.png?v=1712753236",
+        "link": "/shark-tank-india-season/season-4/nooe",
+        "ad": false
+    },
+    {
+        "name": "Go Zero",
+        "description": "Enjoy low-calorie, high-protein, vegan, and sugar-free ice creams crafted with natural ingredients. No artificial flavors or preservatives, just pure joy in every scoop.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 1.5% Equity...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-india-season-4-go-zero.webp",
+        "link": "/shark-tank-india-season/season-4/go-zero",
+        "ad": false
+    },
+    {
+        "name": "BL Fabric",
+        "description": "Manufacturer and wholesaler of women ethnic wear such as Lehenga Choli, Partywear Lehenga, Designer Lehenga, Evening Lehenga, Indian Wedding Lehenga.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 5% Equity. Condition that the founder can claw back 1% equity from Kunal and Ritesh if ₹ 15 Crores in sales is achieved in FY24-25....",
+        "image_url": "https://cdn.shopify.com/s/files/1/0510/4114/0925/products/IMG_5237.jpg?v=1663348848",
+        "link": "/shark-tank-india-season/season-4/bl-fabric",
+        "ad": false
+    },
+    {
+        "name": "Culture Circle",
+        "description": "Compare Jordans, Yeezys, Dunks, AirForce1s, Sneakers prices from all major marketplaces and instagram resellers, and find the cheapest and lowest prices for your favorite sneakers.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 2 Crores for 2% Equity(Kunal Bahl) + ₹ 1 Crore for 1% Equity(Ritesh Agarwal)...",
+        "image_url": "/assets/shark-tank-india/companies/shark-tank-season-4-culture-circle.webp",
+        "link": "/shark-tank-india-season/season-4/culture-circle",
+        "ad": false
+    },
+    {
+        "name": "Confect",
+        "description": "Whether you're a seasoned baker, a creative home cook, or just starting out, Confect has everything you need to turn your ideas into delicious realities. From essential ingredients to unique finds, we bring all the quality products you need under one roof.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 2% Equity + 2% Royalty until ₹ 1 Crore is Recouped...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0850/4698/4992/files/1_c0a49b97-b361-4274-b2a3-d9eef27ccdaf.png?v=1735549668",
+        "link": "/shark-tank-india-season/season-4/confect",
+        "ad": false
+    },
+    {
+        "name": "FAE Beauty",
+        "description": "FAE, which stands for Free and Equal Beauty creates and conceptualizes products that work for every shade of brown skin.",
+        "season": "Shark Tank INDIA Season 4",
+        "raised": "₹ 1 Crore for 1.5% Equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0269/7274/9917/files/6_Skinset_1.jpg?v=1735995230",
+        "link": "/shark-tank-india-season/season-4/fae-beauty",
+        "ad": false
+    }
+]

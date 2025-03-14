@@ -1,0 +1,612 @@
+[
+    {
+        "name": "Amazon Solimo",
+        "description": "Upgrade your everyday essentials with Amazon Solimo – quality you can trust at prices you'll love! Shop now!",
+        "image_url": "/assets/amazon/amazon-solimo-categories/amazon-grocery.webp",
+        "link": "https://amzn.to/4aYgd1P",
+        "ad": true
+    },
+    {
+        "name": "Store My Goods",
+        "description": "India's one and only Tech-Enabled, Secure and Affordable Household Storage Solutions",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs at 4% Equity and ₹50 Lakhs Debt @ 12% Interest...",
+        "image_url": "https://i.ytimg.com/vi_webp/BDLUVYXZwAQ/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/store-my-goods",
+        "ad": false
+    },
+    {
+        "name": "Sneakare",
+        "description": "India’s OG Sneaker Care Brand",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 21 Lakhs for 12% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/GgycXs6M8do/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/sneakare",
+        "ad": false
+    },
+    {
+        "name": "Jain Shikanji",
+        "description": "Lemonade",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "40 Lakhs For 30% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/gYT7O4ZgQrU/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/jain-shikanji",
+        "ad": false
+    },
+    {
+        "name": "Nomad Food Project",
+        "description": "Bacon Jams",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 40 Lakhs for 20% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/6nw5vDcBUUs/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/nomad-food-project",
+        "ad": false
+    },
+    {
+        "name": "Proxgy",
+        "description": "VR",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 crore for 10% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/DzsYKMuCxts/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/proxgy",
+        "ad": false
+    },
+    {
+        "name": "Tweek Labs",
+        "description": "Sportswear",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 60 Lakhs for 10% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/_q5mDAdYF5U/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/tweek-labs",
+        "ad": false
+    },
+    {
+        "name": "Colour Me Mad",
+        "description": "Orthopedic Insoles & footwear – Your Foot Doctor",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 40 Lakhs for 25% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/E9jVneSz6F4/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/colour-me-mad",
+        "ad": false
+    },
+    {
+        "name": "Grow fitter",
+        "description": "Rewards App",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 2% Equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/grow-fitter",
+        "ad": false
+    },
+    {
+        "name": "AyuRythm",
+        "description": "Ayurvedic Wellness App",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 75 Lakhs for 2.68% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/9D_nE32ZWNo/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/ayurythm",
+        "ad": false
+    },
+    {
+        "name": "Kabaddi Adda",
+        "description": "All-Kabaddi App",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 80 Lakhs for 6% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/9dhyjM6uH9s/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/kabaddi-adda",
+        "ad": false
+    },
+    {
+        "name": "Wakao Foods",
+        "description": "Jackfruit Products",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 75 Lakhs for 21% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/Xh17Eab70gg/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/wakao-foods",
+        "ad": false
+    },
+    {
+        "name": "Gold Safe Solutions Ind.",
+        "description": "Anti-Suicidal Fan Rod",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 30% Equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/gold-safe-solutions-ind.",
+        "ad": false
+    },
+    {
+        "name": "Humpy A2",
+        "description": "Organic Milk Products",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 Crore for 15% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/G2VQxaqHDHc/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/humpy-a2",
+        "ad": false
+    },
+    {
+        "name": "Insurance Samadhan",
+        "description": "Insurance Solutions",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 Crore for 4% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/e-NwnZvX4ns/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/insurance-samadhan",
+        "ad": false
+    },
+    {
+        "name": "Watt Technovations",
+        "description": "Ventilated PPE Kits",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 101 for 4% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/OTx1YCvuvBs/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/watt-technovations",
+        "ad": false
+    },
+    {
+        "name": "Rare Planet",
+        "description": "Handicrafts",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 65 Lakhs for 3% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/6tj6bQ6fV2U/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/rare-planet",
+        "ad": false
+    },
+    {
+        "name": "Isak Fragrances",
+        "description": "Perfumes",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 50% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/O4HpXpm-ZIg/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/isak-fragrances",
+        "ad": false
+    },
+    {
+        "name": "Sunfox Technologies",
+        "description": "Portable ECG Device",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 crore for 6% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/bli_huVYGrw/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/sunfox-technologies",
+        "ad": false
+    },
+    {
+        "name": "PawsIndia",
+        "description": "Dog Products",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 15% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/CJlkFv8dpMg/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/pawsindia",
+        "ad": false
+    },
+    {
+        "name": "KG Agrotech",
+        "description": "Agricultural Innovations",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 10 Lakhs for 40% Equity & ₹20 Lakhs Debt...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/kg-agrotech",
+        "ad": false
+    },
+    {
+        "name": "The Sass Bar",
+        "description": "Gifts",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 35% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/R5uqTabxccI/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/the-sass-bar",
+        "ad": false
+    },
+    {
+        "name": "Namhya Foods",
+        "description": "Ayurvedic Enriched Food",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 10% Equity & ₹50 Lakhs Debt...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0624/0655/7914/files/mushroom_lifestyle_front.png?v=1723025977",
+        "link": "/shark-tank-india-season/season-1/namhya-foods",
+        "ad": false
+    },
+    {
+        "name": "Hair Originals",
+        "description": "Natural Hair Extensions",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 60 Lakhs for 4% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/SN-vg3d3AU4/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/hair-originals",
+        "ad": false
+    },
+    {
+        "name": "The Quirky Naari",
+        "description": "Customised Apparels",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 35 Lakhs for 24% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/vs4jVyz67aE/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/the-quirky-naari",
+        "ad": false
+    },
+    {
+        "name": "Sid07 Designs",
+        "description": "Inventions",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 25 Lakhs for 75% equity & 22 Lakhs Debt...",
+        "image_url": "https://i.ytimg.com/vi_webp/hOYi0zZUgAw/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/sid07-designs",
+        "ad": false
+    },
+    {
+        "name": "Get a Whey",
+        "description": "Sugar-Free Icecream",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 Crore for 15% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/EQ3XDmeScqM/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/get-a-whey",
+        "ad": false
+    },
+    {
+        "name": "IN A CAN",
+        "description": "Can Cocktails",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 Crore for 10% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/in-a-can",
+        "ad": false
+    },
+    {
+        "name": "The State Plate",
+        "description": "Delicacies",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 40 Lakhs for 3%equity and ₹25 Lakhs Debt...",
+        "image_url": "https://i.ytimg.com/vi_webp/QMRxkv-8Kcc/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/the-state-plate",
+        "ad": false
+    },
+    {
+        "name": "WeSTOCK",
+        "description": "Livestock health monitoring AI",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 60 Lakhs for 10% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/westock",
+        "ad": false
+    },
+    {
+        "name": "Dandera Technologies",
+        "description": "Electric Auto Vehicle",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 lakh for 1% equity and ₹99 Lakhs Debt...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/dandera-technologies",
+        "ad": false
+    },
+    {
+        "name": "RoadBounce",
+        "description": "Pothole Detection Software and Data",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 80 Lakhs for 20% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/CQp_N3EbP3A/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/roadbounce",
+        "ad": false
+    },
+    {
+        "name": "Aas Vidyalaya",
+        "description": "EdTech App",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1.5 Crore for 15% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/r4EPKRT7Rus/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/aas-vidyalaya",
+        "ad": false
+    },
+    {
+        "name": "Find Your Kicks India",
+        "description": "Sneaker Resale",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 25% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/Fk39TtSF2eE/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/find-your-kicks-india",
+        "ad": false
+    },
+    {
+        "name": "Let's Try",
+        "description": "Healthy Snacks",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 45 Lakhs for 12% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/f6ySut9_thI/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/let's-try",
+        "ad": false
+    },
+    {
+        "name": "Beyond Water",
+        "description": "Liquid Water Enhancer",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 75 Lakhs for 15% Equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/c5IAxxSqPYQ/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/beyond-water",
+        "ad": false
+    },
+    {
+        "name": "Bamboo India",
+        "description": "Bamboo Products",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs at 3.5% Equity and ₹30 Lakhs Debt...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0560/4166/8681/files/jasmine-necklace-with-earrings-402.webp?v=1734167537",
+        "link": "/shark-tank-india-season/season-1/bamboo-india",
+        "ad": false
+    },
+    {
+        "name": "Cocofit",
+        "description": "Coconut based beverage franchise",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 5 for 5% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/p1omkBPAcOg/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/cocofit",
+        "ad": false
+    },
+    {
+        "name": "PNT Robotics",
+        "description": "Robotics and Automation Solutions",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 25 Lakhs for 25% equity and ₹25 Lakhs debt...",
+        "image_url": "https://i.ytimg.com/vi_webp/nNK3wOxygEE/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/pnt-robotics",
+        "ad": false
+    },
+    {
+        "name": "Hammer Lifestyle",
+        "description": "Smart Audio Products",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 crore for 40% equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0337/7102/8616/files/HammerWirelessBluetoothHeadphone.webp?v=1733819025",
+        "link": "/shark-tank-india-season/season-1/hammer-lifestyle",
+        "ad": false
+    },
+    {
+        "name": "The Renal Project",
+        "description": "Home Dialysis Treatment",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 crore at 6% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/jYLiMBjp2b8/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/the-renal-project",
+        "ad": false
+    },
+    {
+        "name": "The Yarn Bazaar",
+        "description": "Yarn-Trading App",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 crore for 10% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/Yi7xfOPMVdE/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/the-yarn-bazaar",
+        "ad": false
+    },
+    {
+        "name": "Caragreen",
+        "description": "Eco-Friendly boxes",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 20% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/caragreen",
+        "ad": false
+    },
+    {
+        "name": "Annie",
+        "description": "Braille Literary Device",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1.05 crore at 3% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/nTxNtTmPq8A/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/annie",
+        "ad": false
+    },
+    {
+        "name": "LOKA",
+        "description": "Metaverse App",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 40 Lakhs for 24% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/loka",
+        "ad": false
+    },
+    {
+        "name": "Auli Lifestyle",
+        "description": "Cosmetics",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 75 Lakhs for 15% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/0SZckw8z9r4/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/auli-lifestyle",
+        "ad": false
+    },
+    {
+        "name": "Farda",
+        "description": "Customised Streetwear",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 30 Lakhs for 20% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/MR0XynpZugI/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/farda",
+        "ad": false
+    },
+    {
+        "name": "ARRCOAT Surface Textures",
+        "description": "Wall Building",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 15% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/arrcoat-surface-textures",
+        "ad": false
+    },
+    {
+        "name": "EventBeep",
+        "description": "Student Community App",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 30 Lakhs for 3% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/eventbeep",
+        "ad": false
+    },
+    {
+        "name": "Meatyour",
+        "description": "Eggs",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 30 Lakhs for 20% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/meatyour",
+        "ad": false
+    },
+    {
+        "name": "Nuutjob",
+        "description": "Male Intimate Hygiene",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 25 Lakhs for 20% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/H2KHJiXw8vw/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/nuutjob",
+        "ad": false
+    },
+    {
+        "name": "Ariro",
+        "description": "Wooden Toys",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 10% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/5cZDdTACjgo/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/ariro",
+        "ad": false
+    },
+    {
+        "name": "Altor",
+        "description": "Smart Helmets",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 7% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/5qNF8JfJRws/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/altor",
+        "ad": false
+    },
+    {
+        "name": "Motion Breeze",
+        "description": "Smart Electric Motorcycle",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 30 Lakhs for 6% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/motion-breeze",
+        "ad": false
+    },
+    {
+        "name": "Vivalyf Innovations- Easy Life",
+        "description": "Prickless Diabetes Testing Machine",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 56 Lakhs for 33.33% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/vivalyf-innovations-easy-life",
+        "ad": false
+    },
+    {
+        "name": "Beyond Snack",
+        "description": "Kerala Banana Chips",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 2.5% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/A34PVSHpB4E/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/beyond-snack",
+        "ad": false
+    },
+    {
+        "name": "Raising Superstars",
+        "description": "Child Development App",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 crore for 4% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/raising-superstars",
+        "ad": false
+    },
+    {
+        "name": "Menstrupedia",
+        "description": "Menstrual Awareness Comic",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 20% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/plNo-1dqBxk/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/menstrupedia",
+        "ad": false
+    },
+    {
+        "name": "Skippi Pops",
+        "description": "Ice-Pops",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 crore for 15% equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0608/8805/5972/files/Pink-guava-FOP-1080.jpg?v=1737450541",
+        "link": "/shark-tank-india-season/season-1/skippi-pops",
+        "ad": false
+    },
+    {
+        "name": "Revamp Moto",
+        "description": "E-Bike",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 1 crore for 1.5% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/9_xBCEf16-4/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/revamp-moto",
+        "ad": false
+    },
+    {
+        "name": "Bummer",
+        "description": "Underwear",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 75 Lakhs for 7.5% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/q1WdAw0s0nY/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/bummer",
+        "ad": false
+    },
+    {
+        "name": "CosIQ",
+        "description": "Intelligent Skincare",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 50 Lakhs for 25% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/ClioiX8Fq8I/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/cosiq",
+        "ad": false
+    },
+    {
+        "name": "NOCD",
+        "description": "Energy Drink",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 20 Lakhs for 15% equity and ₹30 Lakhs debt...",
+        "image_url": "https://i.ytimg.com/vi_webp/O5Z0EKhJ_VI/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/nocd",
+        "ad": false
+    },
+    {
+        "name": "Peeschute",
+        "description": "Disposable Urine Bag",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 75 Lakhs for 6% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/_9j44zGAq8w/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/peeschute",
+        "ad": false
+    },
+    {
+        "name": "Tagz Foods",
+        "description": "Healthy Potato Chips",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 70 Lakhs for 2.75% equity...",
+        "image_url": "https://cdn.shopify.com/s/files/1/0287/7816/8379/files/packof3_cookie_1.png?v=1694865716",
+        "link": "/shark-tank-india-season/season-1/tagz-foods",
+        "ad": false
+    },
+    {
+        "name": "Heart up my Sleeves",
+        "description": "Detachable Sleeves",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 25 Lakhs for 30% equity...",
+        "image_url": "https://i.ytimg.com/vi_webp/ImHZBdPbkVM/hqdefault.webp",
+        "link": "/shark-tank-india-season/season-1/heart-up-my-sleeves",
+        "ad": false
+    },
+    {
+        "name": "Booz scooters",
+        "description": "Renting e-bike for mobility in private spaces",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 40 Lakhs for 50% equity...",
+        "image_url": "/assets/shark-tank-india/shark-tank-india-season-1.webp",
+        "link": "/shark-tank-india-season/season-1/booz-scooters",
+        "ad": false
+    },
+    {
+        "name": "BluePine Industries",
+        "description": "Frozen Momos",
+        "season": "Shark Tank INDIA Season 1",
+        "raised": "₹ 75 Lakhs for 16% equity...",
+        "image_url": "https://bluepinefoods.com/wp-content/uploads/2024/05/Mini-Chicken-Maida.jpg",
+        "link": "/shark-tank-india-season/season-1/bluepine-industries",
+        "ad": false
+    }
+]
