@@ -7,10 +7,13 @@ import undetected_chromedriver as uc
 from urllib.parse import urlparse, urljoin, urlunparse
 import motor.motor_asyncio
 import asyncio
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 brave_path = "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe"
 client = motor.motor_asyncio.AsyncIOMotorClient(
-    "mongodb+srv://rajharshit960:9wF6duth9IdyrDzj@cluster0.8hlwe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    os.getenv("MONGO_URL")
 )
 db = client["emails"]
 collection = db["current"]
@@ -141,8 +144,7 @@ async def scrape(url,parent_domain):
                 # Exclude links to static files
                 if parsed_link.path.endswith(STATIC_EXTENSIONS):
                     continue  # Skip this link
-
-                # Extract link's domain
+                
                 # Check if it's the same domain or a subdomain
                 if link_domain.endswith(parent_domain):
                     # Remove fragment identifiers (anything after #)
@@ -158,7 +160,7 @@ async def scrape(url,parent_domain):
         print(f"An error occurred: {e}")
 
 async def main():
-    url = getWebsite("Watchout Wearables Website")
+    url = getWebsite("SITE NAME Website")
     parent_domain = urlparse(url).netloc
     await scrape(url,parent_domain)
     print(count)
