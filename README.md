@@ -124,6 +124,3 @@ When using this tool, please:
 - Implement reasonable rate limiting
 - Consider privacy laws regarding email collection and storage
 
-## 📄 License
-
-[Add your license information here]
